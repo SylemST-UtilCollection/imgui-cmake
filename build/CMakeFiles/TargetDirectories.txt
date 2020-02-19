@@ -1,0 +1,3 @@
+/home/sylem/Desktop/imgui-cmake.git/build/CMakeFiles/rebuild_cache.dir
+/home/sylem/Desktop/imgui-cmake.git/build/CMakeFiles/DruidImgui-SRC.dir
+/home/sylem/Desktop/imgui-cmake.git/build/CMakeFiles/edit_cache.dir

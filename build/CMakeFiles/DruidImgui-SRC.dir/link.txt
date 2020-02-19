@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDruidImgui-SRC.a  CMakeFiles/DruidImgui-SRC.dir/src/dear-imgui/imgui.o CMakeFiles/DruidImgui-SRC.dir/src/dear-imgui/imgui_demo.o CMakeFiles/DruidImgui-SRC.dir/src/dear-imgui/imgui_draw.o CMakeFiles/DruidImgui-SRC.dir/src/dear-imgui/imgui_widgets.o
+/usr/bin/ranlib libDruidImgui-SRC.a
